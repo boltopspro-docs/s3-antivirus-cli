@@ -1,0 +1,3 @@
+[submodule "vendor/dashboard-builder"]
+	path = vendor/dashboard-builder
+	url = git@github.com:boltopspro/dashboard-builder.git
